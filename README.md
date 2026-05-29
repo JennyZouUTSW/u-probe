@@ -62,6 +62,4 @@ u-probe 3.7 is now available as a standalone application.
 - [Download u-probe 3.7 Standalone](https://cloud.biohpc.swmed.edu/index.php/s/nNFdHEFdw2aAoXr) and [Install MATLAB Runtime R2024a (Linux)](https://www.mathworks.com/products/compiler/matlab-runtime.html)
   
 ## Danuser Lab Links
-[Danuser Lab Website](https://www.danuserlab-utsw.org/)
-
 [Software Links](https://github.com/DanuserLab/)
